@@ -1,0 +1,9 @@
+## Interface: 80300
+## Title: ClassicUI Quest Text
+## Notes: Enables the scrolling quest text available in previous versions of the game.
+## Version: 1.3
+## Author: Ikechi
+## SavedVariables: glob_sqt CUI_qt
+
+ClassicUILibs.lua
+QT.lua
